@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Design on エンジニアブログ | 技大祭実行委員会 情報局</title>
-    <link>https://Ryotakobayash.github.io/categories/web-design/</link>
+    <link>https://Ryotakobayash.github.io/liva-test/categories/web-design/</link>
     <description>Recent content in Web Design on エンジニアブログ | 技大祭実行委員会 情報局</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
     
-	<atom:link href="https://Ryotakobayash.github.io/categories/web-design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Ryotakobayash.github.io/liva-test/categories/web-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ポスト３How To Use Checklists To Improve Your UX</title>
-      <link>https://Ryotakobayash.github.io/blog/post-3/</link>
+      <link>https://Ryotakobayash.github.io/liva-test/blog/post-3/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://Ryotakobayash.github.io/blog/post-3/</guid>
+      <guid>https://Ryotakobayash.github.io/liva-test/blog/post-3/</guid>
       <description>ポスト３featured3
 Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
