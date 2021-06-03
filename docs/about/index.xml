@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>この団体について on エンジニアブログ | 技大祭実行委員会 情報局</title>
-    <link>https://Ryotakobayash.github.io/liva-test/about/</link>
-    <description>Recent content in この団体について on エンジニアブログ | 技大祭実行委員会 情報局</description>
+    <title>自己紹介 on エンジニアブログ | 技大祭実行委員会 情報局</title>
+    <link>https://Ryotakobayash.github.io/blog/about/</link>
+    <description>Recent content in 自己紹介 on エンジニアブログ | 技大祭実行委員会 情報局</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="https://Ryotakobayash.github.io/liva-test/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Ryotakobayash.github.io/blog/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
