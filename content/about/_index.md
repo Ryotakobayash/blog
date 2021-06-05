@@ -10,7 +10,7 @@ image: "images/author.jpg"
 description: "イメージ画像"
 
 # type
-type : "about"
+type : "post"
 ---
 ## PROFILE
 小林 諒大
