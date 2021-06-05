@@ -84,7 +84,7 @@ mobile = "仮0124857985320"
 email = "仮demo@email.com"
 location = "仮Dhaka, Bangladedsh"
 # copyright
-copyright = "&copy; 第４０回技大祭実行委員会"
+copyright = "&copy; 小林 諒大"
 
   # Preloader
   [params.preloader]
