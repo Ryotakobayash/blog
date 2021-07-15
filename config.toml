@@ -72,7 +72,7 @@ publishDir = "docs"
 
 #################### default parameters ################################
 [params]
-logo = "images/KRblog-logo.svg"
+logo = "images/KRblog-logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
