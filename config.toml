@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 baseURL = "https://Ryotakobayash.github.io/blog/"
 canonifyurls = true
-languageCode = "en-us"
-title = "エンジニアブログ | 技大祭実行委員会 情報局"
+languageCode = "ja"
+title = "R.kobayashi | portfolio"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -72,7 +72,7 @@ publishDir = "docs"
 
 #################### default parameters ################################
 [params]
-logo = "images/top-logo.png"
+logo = "images/KRblog-logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
@@ -80,11 +80,11 @@ author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "仮0124857985320"
-email = "仮demo@email.com"
-location = "仮Dhaka, Bangladedsh"
+mobile = ""
+email = "ryota5683804@gmail.com"
+location = ""
 # copyright
-copyright = "&copy; 小林 諒大"
+copyright = "&copy; クリエイティブコモンズ"
 
   # Preloader
   [params.preloader]
