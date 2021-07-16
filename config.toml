@@ -1,5 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://Ryotakobayash.github.io/blog/"
+# baseURL = "https://Ryotakobayash.github.io/blog/"
+baseURL = "https://example.org/"
 canonifyurls = true
 languageCode = "ja"
 title = "R.kobayashi | portfolio"
@@ -76,7 +77,7 @@ logo = "images/KRblog-logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "R.kobayashi"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
@@ -84,7 +85,7 @@ mobile = ""
 email = "ryota5683804@gmail.com"
 location = ""
 # copyright
-copyright = "&copy; クリエイティブコモンズ"
+# copyright = "&copy; クリエイティブコモンズ"
 
   # Preloader
   [params.preloader]
@@ -112,14 +113,14 @@ expire_days = 2
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/nut_fes?s=20"
+link = "https://twitter.com/Re00871489"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "https://www.instagram.com/nutfes/?hl=ja"
+link = "https://www.instagram.com/ry6ou3ta0/?hl=ja"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/orgs/NUTFes"
+link = "https://github.com/Ryotakobayash?tab=repositories"
