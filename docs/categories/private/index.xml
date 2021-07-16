@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>private on R.kobayashi | portfolio</title>
-    <link>https://example.org/categories/private/</link>
+    <link>https://Ryotakobayash.github.io/blog/categories/private/</link>
     <description>Recent content in private on R.kobayashi | portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Jul 2021 19:02:57 +0900</lastBuildDate><atom:link href="https://example.org/categories/private/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 19:02:57 +0900</lastBuildDate><atom:link href="https://Ryotakobayash.github.io/blog/categories/private/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Affinity Designerで立体的なカジノコインを作る</title>
-      <link>https://example.org/blog/20210715/</link>
+      <link>https://Ryotakobayash.github.io/blog/blog/20210715/</link>
       <pubDate>Thu, 15 Jul 2021 19:02:57 +0900</pubDate>
       
-      <guid>https://example.org/blog/20210715/</guid>
+      <guid>https://Ryotakobayash.github.io/blog/blog/20210715/</guid>
       <description>Affinity Designerのグリッド機能を使って立体的なカジノコインを作ります．ここではmac版のキーボード操作で説明していますがcommandをCtrlにすることでWindowsの方にも参考のしていただけるかと思います．
 今回の作成環境  mac AFFINITY Designer ver1.9.1  目次  2Dカジノコインの作成   2Dカジノコイン外周 2Dカジノコイン内周 2Dカジノコイン中心部   立体的に加工   グリッド線の表示と調整 角度をつける 厚さの調整 側面の作成 完成  1.</description>
     </item>

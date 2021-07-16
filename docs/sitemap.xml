@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/blog/</loc>
-    <lastmod>2021-07-15T19:12:41+09:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2021-07-15T19:12:41+09:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/affinity-designer/</loc>
+    <loc>https://Ryotakobayash.github.io/blog/tags/affinity-designer/</loc>
     <lastmod>2021-07-15T19:02:57+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/20210715/</loc>
+    <loc>https://Ryotakobayash.github.io/blog/blog/20210715/</loc>
     <lastmod>2021-07-15T19:02:57+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://Ryotakobayash.github.io/blog/categories/</loc>
     <lastmod>2021-07-15T19:02:57+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/private/</loc>
+    <loc>https://Ryotakobayash.github.io/blog/categories/private/</loc>
     <lastmod>2021-07-15T19:02:57+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://Ryotakobayash.github.io/blog/</loc>
     <lastmod>2021-07-15T19:02:57+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://Ryotakobayash.github.io/blog/tags/</loc>
+    <lastmod>2021-07-15T19:02:57+09:00</lastmod>
+  </url><url>
+    <loc>https://Ryotakobayash.github.io/blog/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://example.org/search/</loc>
+    <loc>https://Ryotakobayash.github.io/blog/blog/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://Ryotakobayash.github.io/blog/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
 </urlset>
