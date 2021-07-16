@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-# baseURL = "https://Ryotakobayash.github.io/blog/"
-baseURL = "https://example.org/"
+baseURL = "https://Ryotakobayash.github.io/blog/"
+# baseURL = "https://example.org/"
 canonifyurls = true
 languageCode = "ja"
 title = "R.kobayashi | portfolio"
