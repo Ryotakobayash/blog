@@ -1,5 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://Ryotakobayash.github.io/blog"
+# テスト用URL(公開する前にコメント戻す)
+baseURL = "http://example.org/"
+# 公開用URL
+# baseURL = "https://Ryotakobayash.github.io/blog"
+
 canonifyurls = true
 languageCode = "ja"
 title = "R.kobayashi | portfolio"
@@ -85,6 +89,8 @@ email = "ryota5683804@gmail.com"
 location = ""
 # copyright
 # copyright = "&copy; クリエイティブコモンズ"
+
+
 
   # Preloader
   [params.preloader]
