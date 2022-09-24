@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 # テスト用URL(公開する前にコメント戻す)
-baseURL = "http://example.org/"
+# baseURL = "http://example.org/"
 # 公開用URL
-# baseURL = "https://Ryotakobayash.github.io/blog"
+baseURL = "https://Ryotakobayash.github.io/blog"
 
 canonifyurls = true
 languageCode = "ja"
